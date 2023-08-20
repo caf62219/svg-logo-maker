@@ -8,6 +8,7 @@
     
 # Installation
     -In order to install this project the user must go to the terminal and type in "node index.js" then follow the prompts on the screen.
+    -In order to run the tests, the user must go to the terminal and type "npm run test".
 
     -Follow the following URL to the video that demonstrates installation and usage: 
     
@@ -24,6 +25,8 @@
 
 # Credits
     Donnie Rawlings: https://github.com/drawlin22/
+    Kyle Jocoy:
+    Nedda Elsayed
    
    
 # License
