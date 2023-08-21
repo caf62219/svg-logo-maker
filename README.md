@@ -11,7 +11,8 @@
     -In order to install this project the user must go to the terminal and type in "node index.js" then follow the prompts on the screen.
     -In order to run the tests, the user must go to the terminal and type "npm run test".
 
-    -Follow the following URL to the video that demonstrates installation and usage: 
+    -Follow the following URL to the video that demonstrates installation and usage: https://drive.google.com/file/d/1zZcWZpE3H3n1IkuXnhLSym7drjwdZNeN/view
+    
     
 # Usage
     
